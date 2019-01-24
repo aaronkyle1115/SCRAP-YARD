@@ -16,9 +16,9 @@ public class StudentInfo {
      */
     public static void main(String[] args) {
        Studentinfo2 hek = new Studentinfo2("University of the Cordilleras", "CITCS", "2nd term SY 2018-2019", "BSCS");
-       hek.setidNumber("18-3907-253");
+       hek.setidNumber("00-0000-000");
        hek.setfirstName("Aaron Kyle");
-       hek.setlastName("Butangen");
+       hek.setlastName("----------");
        hek.studentid();
        
        
